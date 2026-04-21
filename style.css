@@ -22,7 +22,7 @@ header{
     padding: 20px 0;
     text-align: center;
     background-image: url(download (1).jpg);
-    background-size: cover;
+    background-size : cover;
     background-position: center;
 }
 section{
@@ -62,6 +62,7 @@ section{
     transition: transform 0.3s ease;
     animation: ease;
     box-shadow: 0 0 20px rgba(0,0,0,0.2);
+
 }
 form{
     display: flex;
